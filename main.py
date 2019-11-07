@@ -24,4 +24,5 @@ server.login('your_email_address', 'your_password')
 server.sendmail("your_email_address",
                 "your_email_address", data)
 
+# exit the smtp server!
 server.quit()
