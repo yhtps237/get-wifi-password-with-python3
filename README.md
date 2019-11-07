@@ -4,6 +4,6 @@
 3. smtplib
 
 Using these 3 module you can learn all Wifi passwords and their
-name in computer. Also you can use this script for other people's
+name in computer and send it to any email. Also you can use this script for other people's
 computer.
 It's for Windows.
